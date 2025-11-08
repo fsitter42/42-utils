@@ -44,6 +44,7 @@ alias ccw="cc -Wall -Wextra -Werror"
 alias mini='~/mini-moulinette/mini-moul.sh'
 alias gitall="git add . && git commit -m \'600\' && git push"
 alias fzf="fzf --preview 'batcat --color=never --style=numbers {}'"
+alias py="python3"
 
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
